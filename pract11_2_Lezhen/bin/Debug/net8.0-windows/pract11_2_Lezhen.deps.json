@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pract11_2_Lezhen/1.0.0": {
+        "runtime": {
+          "pract11_2_Lezhen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pract11_2_Lezhen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\шарага\Алгоритмизация\pract11_2_Lezhen\obj\Debug\net8.0-windows\pract11_2_Lezhen.Form1.resources
+C:\шарага\Алгоритмизация\pract11_2_Lezhen\obj\Debug\net8.0-windows\pract11_2_Lezhen.csproj.GenerateResource.cache
+C:\шарага\Алгоритмизация\pract11_2_Lezhen\obj\Debug\net8.0-windows\pract11_2_Lezhen.GeneratedMSBuildEditorConfig.editorconfig
+C:\шарага\Алгоритмизация\pract11_2_Lezhen\obj\Debug\net8.0-windows\pract11_2_Lezhen.AssemblyInfoInputs.cache
+C:\шарага\Алгоритмизация\pract11_2_Lezhen\obj\Debug\net8.0-windows\pract11_2_Lezhen.AssemblyInfo.cs
+C:\шарага\Алгоритмизация\pract11_2_Lezhen\obj\Debug\net8.0-windows\pract11_2_Lezhen.csproj.CoreCompileInputs.cache
+C:\шарага\Алгоритмизация\pract11_2_Lezhen\bin\Debug\net8.0-windows\pract11_2_Lezhen.exe
+C:\шарага\Алгоритмизация\pract11_2_Lezhen\bin\Debug\net8.0-windows\pract11_2_Lezhen.deps.json
+C:\шарага\Алгоритмизация\pract11_2_Lezhen\bin\Debug\net8.0-windows\pract11_2_Lezhen.runtimeconfig.json
+C:\шарага\Алгоритмизация\pract11_2_Lezhen\bin\Debug\net8.0-windows\pract11_2_Lezhen.dll
+C:\шарага\Алгоритмизация\pract11_2_Lezhen\bin\Debug\net8.0-windows\pract11_2_Lezhen.pdb
+C:\шарага\Алгоритмизация\pract11_2_Lezhen\obj\Debug\net8.0-windows\pract11_2_Lezhen.dll
+C:\шарага\Алгоритмизация\pract11_2_Lezhen\obj\Debug\net8.0-windows\refint\pract11_2_Lezhen.dll
+C:\шарага\Алгоритмизация\pract11_2_Lezhen\obj\Debug\net8.0-windows\pract11_2_Lezhen.pdb
+C:\шарага\Алгоритмизация\pract11_2_Lezhen\obj\Debug\net8.0-windows\pract11_2_Lezhen.genruntimeconfig.cache
+C:\шарага\Алгоритмизация\pract11_2_Lezhen\obj\Debug\net8.0-windows\ref\pract11_2_Lezhen.dll
